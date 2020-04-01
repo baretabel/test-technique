@@ -1,0 +1,19 @@
+.cont{
+    display: flex;
+    height: 100%;
+    justify-content: center !important;
+}
+#mid{
+    width: 100px;
+    visibility: hidden;
+}
+.btn-dark{
+    width: 250px;
+}
+.modal-header{
+    background-color: #343a40 !important;
+  color: white !important;
+}
+table{
+    text-align: center;
+}
